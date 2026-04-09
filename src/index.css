@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300;12..96,400;12..96,600;12..96,700;12..96,800&family=Azeret+Mono:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --font-display: 'Bricolage Grotesque', sans-serif;
+  --font-mono: 'Azeret Mono', monospace;
+  
+  --paper: #0f0e0c;
+  --paper2: #181612;
+  --paper3: #221f1a;
+  --border: #2e2a24;
+  --muted: #6b6358;
+  --ink: #e8e2d9;
+  --accent: #e85d20;
+  --accent2: #f0793a;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-display);
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--paper);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--muted);
+}
