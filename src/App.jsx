@@ -40,6 +40,7 @@ const BLOCKS = [
       'Boas práticas: atributo alt, rel="noopener", lang no html',
     ],
     links: [
+      { icon: <YouTubeIcon size={16} />, label: 'HTML Full Course - Mike Dane', url: 'https://www.youtube.com/watch?v=pQN-pnXPaVg', display: 'youtube.com/watch?v=pQN-pnXPaVg' },
       { icon: <LinkIcon size={16} />, label: 'Módulos iniciais de HTML', url: 'https://www.freecodecamp.org/learn/2022/responsive-web-design/', display: 'freecodecamp.org/learn/2022/responsive-web-design/' },
       { icon: <RoadmapIcon size={16} />, label: 'Referência visual dos tópicos', url: 'https://roadmap.sh/frontend', display: 'roadmap.sh/frontend' },
     ],
