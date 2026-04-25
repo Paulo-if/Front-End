@@ -3,26 +3,25 @@ De uma olhada no projeto: [Link](beefront.otaviopaul0.com.br)
 
 ![BeeFront Banner](https://img.shields.io/badge/BeeFront-2026-e85d20?style=for-the-badge&logo=honeybee&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-> **BeeFront | 2026** é um programa de estudos de Front-End estruturado em 10 blocos progressivos, desenhado para levar desenvolvedores do absoluto zero ao nível avançado em desenvolvimento web moderno.
+> **BeeFront | 2026** é um grupo de estudos de Front-End estruturado em 10 blocos progressivos, desenhado para levar desenvolvedores do absoluto zero ao nível avançado em desenvolvimento web.
 
 ---
 
 ## 🚀 O Projeto
 
-Este repositório contém a landing page oficial do **BeeFront**, que serve como plano de ensino público para nosso grupo de estudos. O objetivo é fornecer um guia claro, visual e prático para quem deseja dominar a stack de Front-End nos próximos anos.
+Este repositório contém a landing page oficial do **BeeFront**, que serve como plano de ensino público para nosso grupo de estudos. O objetivo é fornecer um guia claro, visual e prático para quem deseja dominar a stack de Front-End.
 
 ### 🎨 Identidade Visual
 
-O projeto possui uma estética **Warm Dark** cuidadosamente planejada:
+O projeto possui uma estética **Dark** planejada:
 - **Tema:** Dark Mode profundo.
 - **Tipografia:** `Bricolage Grotesque` (Display) + `Azeret Mono` (Code/Details).
 - **Cores:** Uma paleta quente com o Laranja vibrante (`#e85d20`) como tom de destaque.
 
 ---
 
-## 🗺️ Roadmap: Os 10 Blocos
+## 🗺️ Roadmap:
 
 O aprendizado é dividido em etapas lógicas e fundamentais:
 
@@ -49,26 +48,6 @@ O site foi construído utilizando as melhores ferramentas atuais:
 - **Estilização:** CSS Customizado via **Variáveis CSS** para máxima flexibilidade.
 - **Ícones:** SVG e Lucide React (se aplicável).
 
----
-
-## 💻 Como Rodar o Projeto
-
-Para visualizar o plano de ensino localmente:
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/Paulo-if/Front-End.git
-   ```
-
-2. **Instale as dependências:**
-   ```bash
-   npm install
-   ```
-
-3. **Inicie o servidor de desenvolvimento:**
-   ```bash
-   npm run dev
-   ```
 
 ---
 
