@@ -53,7 +53,7 @@ O site foi construído utilizando as melhores ferramentas atuais:
 
 ## 🐝 Comunidade
 
-Este projeto foi criado para fortalecer o nosso **gp de estudos**. Sinta-se à vontade para explorar os blocos e sugerir melhorias!
+Este projeto foi criado para fortalecer o nosso **grupo de estudos**. Sinta-se à vontade para explorar os blocos e sugerir melhorias!
 
 ---
-Desenvolvido com 🧡 por [Paulo Otávio](https://github.com/Paulo-if)
+Desenvolvido por [Paulo Otávio](https://github.com/Paulo-if)
