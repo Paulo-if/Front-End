@@ -1,4 +1,5 @@
 # 🐝 BeeFront | 2026
+De uma olhada no projeto: [Link](beefront.otaviopaul0.com.br)
 
 ![BeeFront Banner](https://img.shields.io/badge/BeeFront-2026-e85d20?style=for-the-badge&logo=honeybee&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
